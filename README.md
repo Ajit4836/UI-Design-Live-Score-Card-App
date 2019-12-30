@@ -4,7 +4,7 @@ This is source code of Youtube Channel Video Tutorial.
 
 Channel Name: CodeFrog
 
-Video Title: UI Design Tutorial - UI Design Tutorial - Live Score Card App | HTML CSS BOOTSTRAP Speed Coding
+Video Title: UI Design Tutorial - Live Score Card App | HTML CSS BOOTSTRAP Speed Coding
 
 Video Link: https://youtu.be/S8voyJDRs5s
 
